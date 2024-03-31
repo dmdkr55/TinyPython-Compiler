@@ -1,0 +1,12 @@
+def sum(a,b):
+c=(a+b)
+return c
+
+x=3
+y=5
+result = sum(x,y)
+print(result)
+if result > 100:
+print "dw"
+else:
+print "sdw"
